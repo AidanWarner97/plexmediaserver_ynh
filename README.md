@@ -1,7 +1,7 @@
 # Plex app for YunoHost
 Plex Media Server
 
-Shipped version: 1.19.3.2843
+Shipped version: 1.20.0.6486
 
 - [Yunohost project](https://yunohost.org)
 - [Plex website](https://plex.tv/)
@@ -16,7 +16,7 @@ Shipped version: 1.19.3.2843
 
  1. App can be installed by YunoHost **admin web-interface** or by **running following command**:
 
-         $ sudo yunohost app install https://github.com/YunoHost-Apps/plexmediaserver_ynh
+         $ sudo yunohost app install https://github.com/AidanWarner97/plexmediaserver_ynh
  
  After install :
 
@@ -36,5 +36,5 @@ Shipped version: 1.19.3.2843
  
 ### Upgrade this package:
 
-        $ sudo yunohost app upgrade plexmediaserver -u https://github.com/YunoHost-Apps/plexmediaserver_ynh
+        $ sudo yunohost app upgrade plexmediaserver -u https://github.com/AidanWarner97/plexmediaserver_ynh
 
