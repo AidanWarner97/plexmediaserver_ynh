@@ -16,7 +16,7 @@ Shipped version: 1.30.0.6486
 
  1. App can be installed by YunoHost **admin web-interface** or by **running following command**:
 
-         $ sudo yunohost app install https://github.com/AidanWarner97/plexmediaserver_ynh
+         $ sudo yunohost app install https://github.com/YunoHost-Apps/plexmediaserver_ynh
  
  After install :
 
@@ -36,5 +36,5 @@ Shipped version: 1.30.0.6486
  
 ### Upgrade this package:
 
-        $ sudo yunohost app upgrade plexmediaserver -u https://github.com/AidanWarner97/plexmediaserver_ynh
+        $ sudo yunohost app upgrade plexmediaserver -u https://github.com/YunoHost-Apps/plexmediaserver_ynh
 
